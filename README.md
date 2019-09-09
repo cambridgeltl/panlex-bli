@@ -1,4 +1,4 @@
-# PanLex-based Bilingual Lexicon Induction training and test sets for 15 languages (210 language pairs)
+# PanLex-based bilingual lexicons for 210 language pairs (15 languages)
 
 Contact: Ivan Vulić (iv250 AT cam DOT ac DOT uk)
 
