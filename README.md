@@ -1,6 +1,6 @@
 # PanLex-based bilingual lexicons for 210 language pairs (15 languages)
 
-Contact: Ivan Vulić (iv250 AT cam DOT ac DOT uk)
+Contact: [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (iv250 AT cam DOT ac DOT uk)
 
 This repo contains bilingual lexicons for 210 language pairs (15 languages in total) used in the empirical comparison paper [Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?](https://arxiv.org/pdf/1909.01638.pdf) (Vulić et al., EMNLP 2019)
 
@@ -31,3 +31,8 @@ Please also acknowledge the use of PanLex by citing the following paper:
   year      = {2014},
   }
 ```
+
+### Languages and Lexicons
+
+The following 15 languages are currently covered in the repo. For each language X, we provide a separate zip archive where X is the source language (L_1) paired with the remaining 14 target (L_2) languages.
+
