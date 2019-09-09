@@ -36,3 +36,5 @@ Please also acknowledge the use of PanLex by citing the following paper:
 
 The following 15 languages are currently covered in the repo. For each language X, we provide a separate zip archive where X is the source language (L<sub>1</sub>) paired with the remaining 14 target (L<sub>2</sub>) languages.
 
+* Bulgarian (bg): 
+
