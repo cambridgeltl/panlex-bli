@@ -52,11 +52,11 @@ The following 15 languages are currently covered in the repo. For each language 
 * Thai (th): [th-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/th-l2.zip)
 * Turkish (tr): [tr-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/tr-l2.zip)
 
-If you want to download the entire bundle for all 210 language pairs at once, please click [here]()
+If you want to download the entire bundle for all 210 language pairs at once, please click [here](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/all-l1-l2.zip)
 
 ### Some (Important) Remarks:
 
-* The format of the lexicons should be self-explanatory. We provide training lexicons of different size N (N = 5000, 2000, 1000, 500).
+* The format of the lexicons should be self-explanatory. The files are tab-delimited. We provide training lexicons of different size N (N = 5000, 2000, 1000, 500).
 
 * The provided lexicons are of course not perfect and have not been manually cleaned or verified although the extraction process from PanLex was quite strict in order to focus on high precision. Still, there might be some noise in the lexicons. Therefore, the lexicons should be considered as silver standard.
 
