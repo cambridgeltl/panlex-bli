@@ -39,4 +39,27 @@ The following 15 languages are currently covered in the repo. For each language 
 * Bulgarian (bg): [bg-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/bg-l2-dicts.zip)
 * Catalan (ca): [ca-L<sub>2</sub>]
 * Esperanto (eo): [eo-L<sub>2</sub>]
+* Estonian (et): [et-L<sub>2</sub>]
+* Basque (eu): [eu-L<sub>2</sub>]
+* Finnish (fi): [fi-L<sub>2</sub>]
+* Hebrew (he): [he-L<sub>2</sub>]
+* Hungarian (hu): [hu-L<sub>2</sub>]
+* Indonesian (id): [id-L<sub>2</sub>]
+* Georgian (ka): [ka-L<sub>2</sub>]
+* Korean (ko): [ko-L<sub>2</sub>]
+* Lithuanian (lt): [lt-L<sub>2</sub>]
+* Norwegian Bokmål (no): [no-L<sub>2</sub>]
+* Thai (th): [th-L<sub>2</sub>]
+* Turkish (tr): [tr-L<sub>2</sub>]
+
+
+Some remarks:
+
+* The format of the lexicons should be self-explanatory. We provide training lexicons of different size N (N = 5000, 2000, 1000, 500).
+
+* The provided lexicons are of course not perfect and have not been manually cleaned or verified although the extraction process from PanLex was quite strict in order to focus on high precision. Still, there might be some noise in the lexicons. Therefore, the lexicons should be considered as silver standard.
+
+* For some language pairs (due to the strict extraction process), the number of pairs in the lexicons is smaller than the desired 5K training pairs or 2K test pairs - please double-check before running any size-related analyses of the lexicons and projection-based methods.
+
+* For any further questions, please contact [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (iv250 AT cam DOT ac DOT uk)
 
