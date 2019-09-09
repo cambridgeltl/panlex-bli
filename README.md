@@ -46,13 +46,13 @@ The following 15 languages are currently covered in the repo. For each language 
 * Hungarian (hu): [hu-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/hu-l2.zip)
 * Indonesian (id): [id-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/id-l2.zip)
 * Georgian (ka): [ka-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/ka-l2.zip)
-* Korean (ko): [ko-L<sub>2</sub>]
-* Lithuanian (lt): [lt-L<sub>2</sub>]
-* Norwegian Bokmål (no): [no-L<sub>2</sub>]
-* Thai (th): [th-L<sub>2</sub>]
-* Turkish (tr): [tr-L<sub>2</sub>]
+* Korean (ko): [ko-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/ko-l2.zip)
+* Lithuanian (lt): [lt-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/lt-l2.zip)
+* Norwegian Bokmål (no): [no-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/no-l2.zip)
+* Thai (th): [th-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/th-l2.zip)
+* Turkish (tr): [tr-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/tr-l2.zip)
 
-If you want to download the entire bundle for all 210 language pairs at once, please click [here]
+If you want to download the entire bundle for all 210 language pairs at once, please click [here]()
 
 ### Some (Important) Remarks:
 
