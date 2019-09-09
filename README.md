@@ -53,7 +53,7 @@ The following 15 languages are currently covered in the repo. For each language 
 * Turkish (tr): [tr-L<sub>2</sub>]
 
 
-Some remarks:
+#### Some (Important) Remarks:
 
 * The format of the lexicons should be self-explanatory. We provide training lexicons of different size N (N = 5000, 2000, 1000, 500).
 
