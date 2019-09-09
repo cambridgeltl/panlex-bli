@@ -41,11 +41,11 @@ The following 15 languages are currently covered in the repo. For each language 
 * Esperanto (eo): [eo-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/eo-l2.zip)
 * Estonian (et): [et-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/et-l2.zip)
 * Basque (eu): [eu-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/eu-l2.zip)
-* Finnish (fi): [fi-L<sub>2</sub>]
-* Hebrew (he): [he-L<sub>2</sub>]
-* Hungarian (hu): [hu-L<sub>2</sub>]
-* Indonesian (id): [id-L<sub>2</sub>]
-* Georgian (ka): [ka-L<sub>2</sub>]
+* Finnish (fi): [fi-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/fi-l2.zip)
+* Hebrew (he): [he-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/he-l2.zip)
+* Hungarian (hu): [hu-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/hu-l2.zip)
+* Indonesian (id): [id-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/id-l2.zip)
+* Georgian (ka): [ka-L<sub>2</sub>](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/ka-l2.zip)
 * Korean (ko): [ko-L<sub>2</sub>]
 * Lithuanian (lt): [lt-L<sub>2</sub>]
 * Norwegian Bokmål (no): [no-L<sub>2</sub>]
