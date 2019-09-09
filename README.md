@@ -52,7 +52,7 @@ The following 15 languages are currently covered in the repo. For each language 
 * Thai (th): [th-L<sub>2</sub>]
 * Turkish (tr): [tr-L<sub>2</sub>]
 
-If you want to download the entire bundle at once, please click [here]
+If you want to download the entire bundle for all 210 language pairs at once, please click [here]
 
 ### Some (Important) Remarks:
 
